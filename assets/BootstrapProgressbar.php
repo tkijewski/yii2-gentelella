@@ -19,6 +19,6 @@ class BootstrapProgressbar extends AssetBundle
         'bootstrap-progressbar.min.js',
     ];
     public $depends = [
-        'yii\bootstrap\BootstrapPluginAsset',
+        'yii\bootstrap4\BootstrapPluginAsset',
     ];
 }
