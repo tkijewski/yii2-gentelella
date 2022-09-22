@@ -13,7 +13,7 @@ class ThemeAsset extends AssetBundle
 {
     public $depends = [
         'yii\web\YiiAsset',
-        'yii\bootstrap\BootstrapPluginAsset',
+        'yii\bootstrap4\BootstrapPluginAsset',
         'rmrevin\yii\fontawesome\AssetBundle',
         'yiister\gentelella\assets\BootstrapProgressbar',
         'yiister\gentelella\assets\ThemeBuildAsset',
